@@ -1,0 +1,696 @@
+[
+  {
+    "full_name": "/pytorch/pytorch",
+    "html_url": "https://github.com/pytorch/pytorch",
+    "description": " Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "topics": [
+      "python",
+      "autograd",
+      "gpu",
+      "numpy",
+      "neural-network",
+      "deep-learning",
+      "tensor"
+    ],
+    "stargazers_count": "594",
+    "watchers_count": "10533",
+    "forks_count": "2186"
+  },
+  {
+    "full_name": "/hughperkins/pytorch",
+    "html_url": "https://github.com/hughperkins/pytorch",
+    "description": " Python wrappers for torch and lua",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": "34",
+    "watchers_count": "362",
+    "forks_count": "48"
+  },
+  {
+    "full_name": "/kuangliu/pytorch-cifar",
+    "html_url": "https://github.com/kuangliu/pytorch-cifar",
+    "description": " 95.16% on CIFAR10 with PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "18",
+    "watchers_count": "344",
+    "forks_count": "145"
+  },
+  {
+    "full_name": "/clcarwin/convert_torch_to_pytorch",
+    "html_url": "https://github.com/clcarwin/convert_torch_to_pytorch",
+    "description": " Convert torch t7 model to pytorch model and source.",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "8",
+    "watchers_count": "198",
+    "forks_count": "46"
+  },
+  {
+    "full_name": "/pytorch/tnt",
+    "html_url": "https://github.com/pytorch/tnt",
+    "description": " an abstraction to train neural networks",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "19",
+    "watchers_count": "239",
+    "forks_count": "47"
+  },
+  {
+    "full_name": "/svishnu88/pytorch",
+    "html_url": "https://github.com/svishnu88/pytorch",
+    "description": " All My Pytorch projects reside here",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "python",
+      "deep-learning",
+      "pytorch-tutorial"
+    ],
+    "stargazers_count": "1",
+    "watchers_count": "18",
+    "forks_count": "8"
+  },
+  {
+    "full_name": "/fastai/fastai",
+    "html_url": "https://github.com/fastai/fastai",
+    "description": " The fast.ai deep learning library, lessons, and tutorials",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "machine-learning",
+      "deep-learning",
+      "pytorch"
+    ],
+    "stargazers_count": "149",
+    "watchers_count": "2554",
+    "forks_count": "362"
+  },
+  {
+    "full_name": "/OpenNMT/OpenNMT-py",
+    "html_url": "https://github.com/OpenNMT/OpenNMT-py",
+    "description": " Open Source Neural Machine Translation in PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "neural-machine-translation",
+      "deep-learning",
+      "machine-translation"
+    ],
+    "stargazers_count": "76",
+    "watchers_count": "811",
+    "forks_count": "358"
+  },
+  {
+    "full_name": "/yunjey/pytorch-tutorial",
+    "html_url": "https://github.com/yunjey/pytorch-tutorial",
+    "description": "  PyTorch Tutorial for Deep Learning Researchers",
+    "language": "Python",
+    "topics": [
+      "tutorial",
+      "pytorch",
+      "deep-learning",
+      "neural-networks",
+      "tensorboard",
+      "pytorch-tutorial"
+    ],
+    "stargazers_count": "223",
+    "watchers_count": "3988",
+    "forks_count": "1013"
+  },
+  {
+    "full_name": "/tylergenter/pytorch",
+    "html_url": "https://github.com/tylergenter/pytorch",
+    "description": " Windows port of PyTorch . Alpha quality",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": "9",
+    "watchers_count": "24",
+    "forks_count": "5"
+  },
+  {
+    "full_name": "/pytorch/pytorch",
+    "html_url": "https://github.com/pytorch/pytorch",
+    "description": " Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "topics": [
+      "python",
+      "autograd",
+      "gpu",
+      "numpy",
+      "neural-network",
+      "deep-learning",
+      "tensor"
+    ],
+    "stargazers_count": "594",
+    "watchers_count": "10533",
+    "forks_count": "2186"
+  },
+  {
+    "full_name": "/hughperkins/pytorch",
+    "html_url": "https://github.com/hughperkins/pytorch",
+    "description": " Python wrappers for torch and lua",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": "34",
+    "watchers_count": "362",
+    "forks_count": "48"
+  },
+  {
+    "full_name": "/kuangliu/pytorch-cifar",
+    "html_url": "https://github.com/kuangliu/pytorch-cifar",
+    "description": " 95.16% on CIFAR10 with PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "18",
+    "watchers_count": "344",
+    "forks_count": "145"
+  },
+  {
+    "full_name": "/clcarwin/convert_torch_to_pytorch",
+    "html_url": "https://github.com/clcarwin/convert_torch_to_pytorch",
+    "description": " Convert torch t7 model to pytorch model and source.",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "8",
+    "watchers_count": "198",
+    "forks_count": "46"
+  },
+  {
+    "full_name": "/pytorch/tnt",
+    "html_url": "https://github.com/pytorch/tnt",
+    "description": " an abstraction to train neural networks",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "19",
+    "watchers_count": "239",
+    "forks_count": "47"
+  },
+  {
+    "full_name": "/svishnu88/pytorch",
+    "html_url": "https://github.com/svishnu88/pytorch",
+    "description": " All My Pytorch projects reside here",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "python",
+      "deep-learning",
+      "pytorch-tutorial"
+    ],
+    "stargazers_count": "1",
+    "watchers_count": "18",
+    "forks_count": "8"
+  },
+  {
+    "full_name": "/fastai/fastai",
+    "html_url": "https://github.com/fastai/fastai",
+    "description": " The fast.ai deep learning library, lessons, and tutorials",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "machine-learning",
+      "deep-learning",
+      "pytorch"
+    ],
+    "stargazers_count": "149",
+    "watchers_count": "2554",
+    "forks_count": "362"
+  },
+  {
+    "full_name": "/OpenNMT/OpenNMT-py",
+    "html_url": "https://github.com/OpenNMT/OpenNMT-py",
+    "description": " Open Source Neural Machine Translation in PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "neural-machine-translation",
+      "deep-learning",
+      "machine-translation"
+    ],
+    "stargazers_count": "76",
+    "watchers_count": "811",
+    "forks_count": "358"
+  },
+  {
+    "full_name": "/yunjey/pytorch-tutorial",
+    "html_url": "https://github.com/yunjey/pytorch-tutorial",
+    "description": "  PyTorch Tutorial for Deep Learning Researchers",
+    "language": "Python",
+    "topics": [
+      "tutorial",
+      "pytorch",
+      "deep-learning",
+      "neural-networks",
+      "tensorboard",
+      "pytorch-tutorial"
+    ],
+    "stargazers_count": "223",
+    "watchers_count": "3988",
+    "forks_count": "1013"
+  },
+  {
+    "full_name": "/tylergenter/pytorch",
+    "html_url": "https://github.com/tylergenter/pytorch",
+    "description": " Windows port of PyTorch . Alpha quality",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": "9",
+    "watchers_count": "24",
+    "forks_count": "5"
+  },
+  {
+    "full_name": "/jayleicn/animeGAN",
+    "html_url": "https://github.com/jayleicn/animeGAN",
+    "description": " A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing.",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "pytorch",
+      "generative-adversarial-network"
+    ],
+    "stargazers_count": "15",
+    "watchers_count": "254",
+    "forks_count": "54"
+  },
+  {
+    "full_name": "/taolei87/sru",
+    "html_url": "https://github.com/taolei87/sru",
+    "description": " Training RNNs as Fast as CNNs ( https://arxiv.org/abs/1709.02755 )",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "nlp",
+      "deep-learning",
+      "recurrent-neural-networks"
+    ],
+    "stargazers_count": "55",
+    "watchers_count": "1181",
+    "forks_count": "169"
+  },
+  {
+    "full_name": "/SherlockLiao/Char-RNN-PyTorch",
+    "html_url": "https://github.com/SherlockLiao/Char-RNN-PyTorch",
+    "description": " 使用 PyTorch 实现Char RNN生成古诗和周杰伦的歌词",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "2",
+    "watchers_count": "17",
+    "forks_count": "7"
+  },
+  {
+    "full_name": "/caogang/wgan-gp",
+    "html_url": "https://github.com/caogang/wgan-gp",
+    "description": " A pytorch implementation of Paper \"Improved Training of Wasserstein GANs\"",
+    "language": "Python",
+    "topics": [
+      "wgan-gp",
+      "pytorch"
+    ],
+    "stargazers_count": "8",
+    "watchers_count": "222",
+    "forks_count": "46"
+  },
+  {
+    "full_name": "/1adrianb/face-alignment",
+    "html_url": "https://github.com/1adrianb/face-alignment",
+    "description": "  🔥 2D and 3D Face alignment library build using pytorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "python",
+      "face-alignment",
+      "deep-learning",
+      "face-detector"
+    ],
+    "stargazers_count": "55",
+    "watchers_count": "1013",
+    "forks_count": "181"
+  },
+  {
+    "full_name": "/hunkim/PyTorchZeroToAll",
+    "html_url": "https://github.com/hunkim/PyTorchZeroToAll",
+    "description": " Simple PyTorch Tutorials Zero to ALL!",
+    "language": "Python",
+    "topics": [
+      "python",
+      "basic",
+      "tutorial",
+      "pytorch",
+      "deeplearning"
+    ],
+    "stargazers_count": "67",
+    "watchers_count": "1173",
+    "forks_count": "289"
+  },
+  {
+    "full_name": "/Shawn1993/cnn-text-classification-pytorch",
+    "html_url": "https://github.com/Shawn1993/cnn-text-classification-pytorch",
+    "description": " CNNs for Sentence Classification in PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "cnn-model"
+    ],
+    "stargazers_count": "7",
+    "watchers_count": "179",
+    "forks_count": "64"
+  },
+  {
+    "full_name": "/longcw/faster_rcnn_pytorch",
+    "html_url": "https://github.com/longcw/faster_rcnn_pytorch",
+    "description": " Faster RCNN with PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "detection",
+      "computer-vision",
+      "faster-rcnn"
+    ],
+    "stargazers_count": "30",
+    "watchers_count": "605",
+    "forks_count": "196"
+  },
+  {
+    "full_name": "/fxia22/stn.pytorch",
+    "html_url": "https://github.com/fxia22/stn.pytorch",
+    "description": "  pytorch version of spatial transformer networks",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "stn",
+      "pytorch"
+    ],
+    "stargazers_count": "11",
+    "watchers_count": "173",
+    "forks_count": "33"
+  },
+  {
+    "full_name": "/facebookresearch/fairseq-py",
+    "html_url": "https://github.com/facebookresearch/fairseq-py",
+    "description": " Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "python",
+      "artificial-intelligence"
+    ],
+    "stargazers_count": "58",
+    "watchers_count": "945",
+    "forks_count": "141"
+  },
+  {
+    "full_name": "/spro/practical-pytorch",
+    "html_url": "https://github.com/spro/practical-pytorch",
+    "description": "  PyTorch tutorials demonstrating modern techniques with readable code",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "nlp",
+      "natural-language-processing",
+      "seq2seq",
+      "natural-language-generation",
+      "nlg"
+    ],
+    "stargazers_count": "93",
+    "watchers_count": "1618",
+    "forks_count": "294"
+  },
+  {
+    "full_name": "/jwyang/faster-rcnn.pytorch",
+    "html_url": "https://github.com/jwyang/faster-rcnn.pytorch",
+    "description": " A faster pytorch implementation of faster r-cnn",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "faster-rcnn"
+    ],
+    "stargazers_count": "15",
+    "watchers_count": "249",
+    "forks_count": "31"
+  },
+  {
+    "full_name": "/kimhc6028/relational-networks",
+    "html_url": "https://github.com/kimhc6028/relational-networks",
+    "description": "  Pytorch implementation of \"A simple neural network module for relational reasoning\" (Relational Networks)",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "deep-learning",
+      "relational-networks"
+    ],
+    "stargazers_count": "27",
+    "watchers_count": "494",
+    "forks_count": "91"
+  },
+  {
+    "full_name": "/aaron-xichen/pytorch-playground",
+    "html_url": "https://github.com/aaron-xichen/pytorch-playground",
+    "description": " Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet,…",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "quantization",
+      "pytorch-tutorial",
+      "pytorch-tutorials"
+    ],
+    "stargazers_count": "25",
+    "watchers_count": "673",
+    "forks_count": "142"
+  },
+  {
+    "full_name": "/AlfredXiangWu/LightCNN",
+    "html_url": "https://github.com/AlfredXiangWu/LightCNN",
+    "description": " A pytorch implement of \"A Light CNN for Deep Face Representation with Noisy Labels\"",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "face-recognition"
+    ],
+    "stargazers_count": "8",
+    "watchers_count": "108",
+    "forks_count": "29"
+  },
+  {
+    "full_name": "/hunkim/DeepLearningZeroToAll",
+    "html_url": "https://github.com/hunkim/DeepLearningZeroToAll",
+    "description": " TensorFlow Basic Tutorial Labs",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "lab",
+      "tensorflow",
+      "python",
+      "tutorial",
+      "mxnet",
+      "keras",
+      "pytorch"
+    ],
+    "stargazers_count": "218",
+    "watchers_count": "1906",
+    "forks_count": "954"
+  },
+  {
+    "full_name": "/jcjohnson/pytorch-examples",
+    "html_url": "https://github.com/jcjohnson/pytorch-examples",
+    "description": " Simple examples to introduce PyTorch ",
+    "language": "Python",
+    "topics": [],
+    "stargazers_count": "68",
+    "watchers_count": "1037",
+    "forks_count": "216"
+  },
+  {
+    "full_name": "/sunshineatnoon/Paper-Implementations",
+    "html_url": "https://github.com/sunshineatnoon/Paper-Implementations",
+    "description": " Use PyTorch to implement some classic frameworks",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "stargazers_count": "17",
+    "watchers_count": "314",
+    "forks_count": "80"
+  },
+  {
+    "full_name": "/gram-ai/capsule-networks",
+    "html_url": "https://github.com/gram-ai/capsule-networks",
+    "description": " A PyTorch implementation of the NIPS 2017 paper \"Dynamic Routing Between Capsules\".",
+    "language": "Python",
+    "topics": [
+      "mnist",
+      "pytorch",
+      "machine-learning",
+      "capsule-networks"
+    ],
+    "stargazers_count": "31",
+    "watchers_count": "607",
+    "forks_count": "88"
+  },
+  {
+    "full_name": "/carpedm20/DiscoGAN-pytorch",
+    "html_url": "https://github.com/carpedm20/DiscoGAN-pytorch",
+    "description": "  PyTorch implementation of \"Learning to Discover Cross-Domain Relations with Generative Adversarial Networks\"",
+    "language": "Jupyter Notebook",
+    "topics": [
+      "pytorch",
+      "gan",
+      "generative-model",
+      "unsupervised-learning"
+    ],
+    "stargazers_count": "30",
+    "watchers_count": "594",
+    "forks_count": "115"
+  },
+  {
+    "full_name": "/MaximumEntropy/Seq2Seq-PyTorch",
+    "html_url": "https://github.com/MaximumEntropy/Seq2Seq-PyTorch",
+    "description": " Sequence to Sequence Models with PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "rnn",
+      "seq2seq",
+      "deep-learning"
+    ],
+    "stargazers_count": "15",
+    "watchers_count": "335",
+    "forks_count": "90"
+  },
+  {
+    "full_name": "/wkentaro/pytorch-fcn",
+    "html_url": "https://github.com/wkentaro/pytorch-fcn",
+    "description": "  PyTorch Implementation of Fully Convolutional Networks.",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "python",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "stargazers_count": "12",
+    "watchers_count": "228",
+    "forks_count": "77"
+  },
+  {
+    "full_name": "/longcw/RoIAlign.pytorch",
+    "html_url": "https://github.com/longcw/RoIAlign.pytorch",
+    "description": " RoIAlign & crop_and_resize for PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch"
+    ],
+    "stargazers_count": "3",
+    "watchers_count": "36",
+    "forks_count": "5"
+  },
+  {
+    "full_name": "/lanpa/tensorboard-pytorch",
+    "html_url": "https://github.com/lanpa/tensorboard-pytorch",
+    "description": " tensorboard for pytorch ",
+    "language": "Python",
+    "topics": [
+      "tensorboard",
+      "pytorch",
+      "visualization",
+      "machine-learning"
+    ],
+    "stargazers_count": "23",
+    "watchers_count": "867",
+    "forks_count": "78"
+  },
+  {
+    "full_name": "/ShichenLiu/CondenseNet",
+    "html_url": "https://github.com/ShichenLiu/CondenseNet",
+    "description": " CondenseNet: Light weighted CNN for mobile devices",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "deep-learning",
+      "mobile-device"
+    ],
+    "stargazers_count": "13",
+    "watchers_count": "261",
+    "forks_count": "35"
+  },
+  {
+    "full_name": "/IBM/pytorch-seq2seq",
+    "html_url": "https://github.com/IBM/pytorch-seq2seq",
+    "description": "  pytorch -seq2seq is a framework for sequence-to-sequence (seq2seq) models in PyTorch .",
+    "language": "Python",
+    "topics": [
+      "seq2seq",
+      "pytorch",
+      "deeplearning"
+    ],
+    "stargazers_count": "26",
+    "watchers_count": "288",
+    "forks_count": "64"
+  },
+  {
+    "full_name": "/dnouri/skorch",
+    "html_url": "https://github.com/dnouri/skorch",
+    "description": " A scikit-learn compatible neural network library that wraps pytorch ",
+    "language": "Python",
+    "topics": [
+      "machine-learning",
+      "scikit-learn",
+      "pytorch"
+    ],
+    "stargazers_count": "49",
+    "watchers_count": "923",
+    "forks_count": "67"
+  },
+  {
+    "full_name": "/bamos/densenet.pytorch",
+    "html_url": "https://github.com/bamos/densenet.pytorch",
+    "description": " A PyTorch implementation of DenseNet.",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "densenet",
+      "deep-learning"
+    ],
+    "stargazers_count": "7",
+    "watchers_count": "313",
+    "forks_count": "57"
+  },
+  {
+    "full_name": "/meetshah1995/pytorch-semseg",
+    "html_url": "https://github.com/meetshah1995/pytorch-semseg",
+    "description": " Semantic Segmentation Architectures Implemented in PyTorch ",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "deep-learning",
+      "semantic-segmentation",
+      "fully-convolutional-networks"
+    ],
+    "stargazers_count": "33",
+    "watchers_count": "389",
+    "forks_count": "101"
+  },
+  {
+    "full_name": "/szagoruyko/attention-transfer",
+    "html_url": "https://github.com/szagoruyko/attention-transfer",
+    "description": " Improving Convolutional Networks via Attention Transfer (ICLR 2017)",
+    "language": "Python",
+    "topics": [
+      "pytorch",
+      "attention",
+      "deep-learning",
+      "knowledge-distillation"
+    ],
+    "stargazers_count": "28",
+    "watchers_count": "494",
+    "forks_count": "91"
+  }
+]
