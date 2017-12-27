@@ -1,5 +1,6 @@
 from datetime import datetime
 from bs4 import BeautifulSoup
+import argparse
 import requests
 import random
 import time
@@ -90,24 +91,31 @@ class GithubManualRepoCrawler(object):
 
 
 if __name__ == "__main__":
-    query = input("Enter your query : ")
-    from_page = input("Enter the page number you want to start crawl : ")
-    to_page = input("Enter the page number you want to stop crawl : ")
+    parser = argparse.ArgumentParser(description="Crawler for Github Repository Information")
 
-    total_count = 10 * (int(to_page) - int(from_page) + 1)
+    parser.add_argument("-q", help="Query", required=True)
+    parser.add_argument("-fp", help="Page number you want to start crawl", type=int, default=0)
+    parser.add_argument("-tp", help="Page number you want to stop crawl", type=int, default=10)
+    args = parser.parse_args()
+
+    query = args.q
+    from_page = args.fp
+    to_page = args.tp
+
+    total_count = 10 * (to_page - from_page + 1)
     timestamp = datetime.today().strftime("%Y%m%d")
     save_path = "./%s_crawl_%s.json" % (query, timestamp)
 
-    print("Crawling github repo content of %s will be started." % query)
-    print("Crawling range is from %s to %s. Total count of crawling contents will be %s." % (
-    from_page, to_page, total_count))
+    print("Crawling '%s' related github repository information will be started." % query)
+    print("Crawling range is from %s to %s. Total count of crawling github repo will be %s." % (
+                                                                                    from_page, to_page, total_count))
     print("Result will be stored in %s" % save_path)
 
     github_manual_repo_crawler = GithubManualRepoCrawler()
     test_yn = False
 
     crawl_result = []
-    for page in range(int(from_page), int(to_page)):
+    for page in range(from_page, to_page):
         search_result = github_manual_repo_crawler.get_repo_contents(query, page, test_yn)
         crawl_result.extend(search_result)
 
